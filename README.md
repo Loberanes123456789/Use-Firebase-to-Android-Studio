@@ -1,5 +1,5 @@
 # Use-Firebase-to-Android-Studio
-** if you still don't have or doesn't know how to create firebase project Watch this Youtube video on how to craete your firebase project https://www.youtube.com/watch?v=eeGKcZGkKrc **
+<!-- if you still don't have or doesn't know how to create firebase project Watch this Youtube video on how to craete your firebase project https://www.youtube.com/watch?v=eeGKcZGkKrc -->
 ** after that **
 ** Open the Android Studio project that you want to apply Firebase  then**
 ![1](https://user-images.githubusercontent.com/92995323/210178186-1e4632f5-7c90-407b-a1fa-fa50ce4654dc.png)
